@@ -1,0 +1,4 @@
+/* Bootstrap Icons trebuie primul */
+@import "tailwindcss";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
